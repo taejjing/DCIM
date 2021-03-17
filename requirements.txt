@@ -1,0 +1,7 @@
+torch==1.8.0
+torchvision
+pandas
+numpy
+tqdm
+tensorboard>=1.14
+jupyter
